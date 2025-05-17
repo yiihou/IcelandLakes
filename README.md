@@ -9,8 +9,11 @@ Data (all other data appear in the manuscript were previously reported and can b
 
 Codes:
 	york_curve_fit: linear regression that accounts for uncertainties in both y and x
+ 
 	Mann_Kendall: non-parametric trend detection
+ 
 	CalculateWeatheringFlux.m: calculating weathering flux assuming open system
+ 
 	closedRayleigh.m: calculating weathering flux assuming closed system behavior for the lakes
 	MKTest_HAK.m: Resampling and trend detection for HAK
 	CorrTest_HVT.m: Resampling and detection of linear correlation between ice area/glacial discharge and chemical weathering fluxes.
