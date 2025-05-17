@@ -30,7 +30,7 @@ function[H,p_value]=Mann_Kendall(V,alpha)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%% References 
 %Mann, H. B. (1945), Nonparametric tests against trend, Econometrica, 13, 
-%245Â– 259.
+%245– 259.
 %Kendall, M. G. (1975), Rank Correlation Methods, Griffin, London.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %   Simone Fatichi -- simonef@dicea.unifi.it
